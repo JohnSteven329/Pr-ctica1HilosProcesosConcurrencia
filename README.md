@@ -49,7 +49,7 @@ python cajeros.py
 python escenario1_memoria.py
 python escenario2_io.py
 python escenario3_cpu.py
-python barra_progreso.py
+python BarraProgreso.py.py
 ```
 
 ## 1. Simulador de cajeros automáticos
